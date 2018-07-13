@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\DependencyInjection_demo\DependencyInjection_demo\bin\Debug\netcoreapp2.0\DependencyInjection_demo.deps.json
+C:\Users\Administrator\source\repos\DependencyInjection_demo\DependencyInjection_demo\bin\Debug\netcoreapp2.0\DependencyInjection_demo.runtimeconfig.json
+C:\Users\Administrator\source\repos\DependencyInjection_demo\DependencyInjection_demo\bin\Debug\netcoreapp2.0\DependencyInjection_demo.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DependencyInjection_demo\DependencyInjection_demo\bin\Debug\netcoreapp2.0\DependencyInjection_demo.dll
+C:\Users\Administrator\source\repos\DependencyInjection_demo\DependencyInjection_demo\obj\Debug\netcoreapp2.0\DependencyInjection_demo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DependencyInjection_demo\DependencyInjection_demo\obj\Debug\netcoreapp2.0\DependencyInjection_demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DependencyInjection_demo\DependencyInjection_demo\obj\Debug\netcoreapp2.0\DependencyInjection_demo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DependencyInjection_demo\DependencyInjection_demo\obj\Debug\netcoreapp2.0\DependencyInjection_demo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DependencyInjection_demo\DependencyInjection_demo\bin\Debug\netcoreapp2.0\DependencyInjection_demo.pdb
+C:\Users\Administrator\source\repos\DependencyInjection_demo\DependencyInjection_demo\obj\Debug\netcoreapp2.0\DependencyInjection_demo.dll
+C:\Users\Administrator\source\repos\DependencyInjection_demo\DependencyInjection_demo\obj\Debug\netcoreapp2.0\DependencyInjection_demo.pdb
